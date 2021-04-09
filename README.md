@@ -1,4 +1,6 @@
 # Intl Enumeration API Specification
+
+![Stage 3](https://badges.aleen42.com/src/tc39_4.svg)
 List supported values of options in pre-existing ECMA 402 API.
 
 ## Stage 2
